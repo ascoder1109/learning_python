@@ -1,0 +1,6 @@
+s=input("Enter a string:")
+i=int(input("Enter a number:"))
+f=float(input("Enter a floating number:"))
+print(i)
+print(s)
+print(f)
