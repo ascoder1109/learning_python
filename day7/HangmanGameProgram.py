@@ -80,7 +80,7 @@ words = [
     "rainbow", "galaxy", "puzzle", "mystery", "adventure", "treasure", "superhero",
     "friendship", "imagination", "creativity"
 ]
-
+lives = 6
 chosenWord = random.choice(words)
 wordLength = len(chosenWord)
 print(chosenWord)
