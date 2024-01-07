@@ -1,0 +1,5 @@
+i = int(input("Enter a number:"))
+f  = float(input("Enter a decimal number:"))
+name = input("Enter your name:")
+print("Hello ",name)
+print(f"You entered number {i}")
