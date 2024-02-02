@@ -1,0 +1,10 @@
+l = [8,4,9,2,1,6]
+print(l)
+l.append(23)
+print(l)
+l.pop(4)
+print(l)
+l.sort()
+print(l)
+l.reverse()
+print(l)
